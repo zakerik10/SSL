@@ -3,7 +3,7 @@
 ### Curso
 K2054
 
-###Año de cursada
+### Año de cursada
 2023
 
 ### Legajo
@@ -12,5 +12,5 @@ K2054
 ### Apellido
 Zakaryan
 
-###Nombre
+### Nombre
 Erik
